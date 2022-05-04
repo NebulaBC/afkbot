@@ -1,5 +1,6 @@
 # AFKBot #
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
 Copyright (C) 2013-2022 Charles Ricketts  &lt;chuck.the.pc.guy@gmail.com&gt;
 
 ### Purpose ###
