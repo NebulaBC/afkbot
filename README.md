@@ -1,5 +1,6 @@
 # AFKBot #
-Copyright (C) 2013-2022 Charles Ricketts  &lt;chuck.the.pc.guy@gmail.com&gt; [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+Copyright (C) 2013-2022 Charles Ricketts  &lt;chuck.the.pc.guy@gmail.com&gt;
 
 ### Purpose ###
 Unlike other voice chat clients, Mumble does not provide a mechanism to specify an AFK channel or timeout. So, I made a bot script that takes care of this for me. Though I am releasing this script in 2015, I have been using it without problems for a couple of years now. For my uses in a moderately trafficked Mumble server, it has been very stable.
